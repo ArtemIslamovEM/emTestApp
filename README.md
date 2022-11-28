@@ -1,2 +1,2 @@
 # emTestApp - App
-> Some test Business Application V6
+> Some test Business Application V7
